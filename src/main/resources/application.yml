@@ -1,1 +1,9 @@
-
+qiniu:
+  accessKey:
+  secretKey:
+  privateBucket:
+  publicBucket:
+  zone: huanan # 存储区域
+  privateDomain: q9nfrqzxn.bkt.clouddn.com # 访问域名
+  publicDomain: q9rglfbjc.bkt.clouddn.com
+  expireInSeconds: 3600
